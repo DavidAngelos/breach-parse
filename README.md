@@ -1,5 +1,5 @@
 # breach-parse
-A tool for parsing breached passwords
+A tool for parsing breached passwords in zstd file format.
 
 ### Installation
 
